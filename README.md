@@ -17,8 +17,8 @@ Bootstrap
 
 
 ## Search Page
-![Search Page](Assets/images/searchpage.png)
+![Search Page](Assets/images/search page.png)
 
 
 ## Weather Page
-![Weather Page](Assets/images/weatherpage.png)
+![Weather Page](Assets/images/weather page.png)
