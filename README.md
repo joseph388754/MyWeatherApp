@@ -17,8 +17,8 @@ Bootstrap
 https://joseph388754.github.io/MyWeatherApp/
 
 ## Search Page
-![Search Page](Assets/images/searchpage.png)
+![Search Page](Assets/images/srchpage.png)
 
 
 ## Weather Page
-![Weather Page](Assets/images/weatherpage.png)
+![Weather Page](Assets/images/weather1page.png)
